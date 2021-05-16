@@ -1,10 +1,4 @@
-
-### My GitHub Stats
-<div>
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHome&" alt="AmirHome" />
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=AmirHome&show_icons=true&locale=en" alt="AmirHome" />
-</div>
-
+### Contact Me
 <div align="left" inline>
     
 <span align="left"> <a href="https://www.linkedin.com/in/amir-hosseinzadeh/" target="_blank">
@@ -14,6 +8,12 @@
   <img src="https://img.shields.io/twitter/follow/iranian_dove?logo=twitter&style=for-the-badge" alt="amirhome" /></a>
 </span>
 
+</div>
+
+### My GitHub Stats
+<div>
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHome&" alt="AmirHome" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=AmirHome&show_icons=true&locale=en" alt="AmirHome" />
 </div>
 
 ### Languages and Tools:
