@@ -67,4 +67,4 @@
 
 </p>
 
-<p align="center"> <strong>Last updated at 16 May 2021 14:22 UTC</strong></p>
+<p align="center"> <strong>Last updated at 16 May 2021</strong></p>
