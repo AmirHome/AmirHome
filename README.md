@@ -1,14 +1,4 @@
-### Contact Me
-<div align="left" inline>
-    
-<span align="left"> <a href="https://www.linkedin.com/in/amir-hosseinzadeh/" target="_blank">
-  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Amir Hosseinzadeh" height="25"/></a>
-</span>
-<span align="left"> <a href="https://twitter.com/iranian_dove" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/iranian_dove?logo=twitter&style=for-the-badge" alt="amirhome" /></a>
-</span>
 
-</div>
 
 ### My GitHub Stats
 <div>
@@ -76,4 +66,16 @@
 
 </p>
 
-<p align="center"> <strong>Last updated at 16 May 2021</strong></p>
+
+### Contact Me
+<div align="left" inline>
+<span align="left"> <a href="https://www.linkedin.com/in/amir-hosseinzadeh/" target="_blank">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Amir Hosseinzadeh" height="25"/></a>
+</span>
+<span align="left"> <a href="https://twitter.com/iranian_dove" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/iranian_dove?logo=twitter&style=for-the-badge" alt="amirhome" /></a>
+</span>
+</div>
+
+<p align="center"> Last updated at 16 May 2021</p>
+
