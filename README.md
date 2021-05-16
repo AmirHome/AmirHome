@@ -6,8 +6,10 @@
 </div>
 
 <div align="left" inline>
-  
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksavvy&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksavvy" /> </span>
+    
+<span align="left"> <a href="https://www.linkedin.com/in/amir-hosseinzadeh/" target="_blank">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Amir Hosseinzadeh" /></a></span>
+</div>
   
 <span align="left"> <a href="https://twitter.com/iranian_dove" target="blank">
   <img src="https://img.shields.io/twitter/follow/iranian_dove?logo=twitter&style=for-the-badge" alt="amirhome" /></a> </span>
