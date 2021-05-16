@@ -9,10 +9,10 @@
     
 <span align="left"> <a href="https://www.linkedin.com/in/amir-hosseinzadeh/" target="_blank">
   <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Amir Hosseinzadeh" /></a></span>
-</div>
   
-<span align="left"> <a href="https://twitter.com/iranian_dove" target="blank">
-  <img src="https://img.shields.io/twitter/follow/iranian_dove?logo=twitter&style=for-the-badge" alt="amirhome" /></a> </span>
+<span align="left"> <a href="https://twitter.com/iranian_dove" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/iranian_dove?logo=twitter&style=for-the-badge" alt="amirhome" /></a>
+</span>
 </div>
 
 ### Languages and Tools:
