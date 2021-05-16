@@ -65,13 +65,14 @@
 </a>
 
 </p>
-
+<br/><br/><br/>
 
 <p align="center">
 <div align="center" inline>
 <span align="left"> <a href="https://www.linkedin.com/in/amir-hosseinzadeh/" target="_blank">
   <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Amir Hosseinzadeh" height="25"/></a>
 </span>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <span align="left"> <a href="https://twitter.com/iranian_dove" target="_blank">
   <img src="https://img.shields.io/twitter/follow/iranian_dove?logo=twitter&style=for-the-badge" alt="amirhome" /></a>
 </span>
