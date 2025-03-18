@@ -1,3 +1,4 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AmirHome&theme=dark)](https://git.io/streak-stats)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
 <img src="https://github-readme-stats.vercel.app/api?username=AmirHome&theme=default&show_icons=true&hide_border=true&count_private=true" alt="AmirHome's GitHub Stats" />
