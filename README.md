@@ -2,9 +2,9 @@
 
 ### My GitHub Stats
 <div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmirHome" alt="GitHub Streak" /></a>
  <img align="center" width="49%" src="https://streak-stats.demolab.com/?user=AmirHome" alt="AmirHome" />
  <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=AmirHome&show_icons=true&locale=en" alt="AmirHome" />
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&theme=default&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 ### Languages and Tools:
