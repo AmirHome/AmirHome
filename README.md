@@ -2,7 +2,7 @@
 
 ### My GitHub Stats
 <div>
- <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHome&theme=default&show_icons=true&hide_border=true&layout=compact" alt="AmirHome" />
+ <img align="center" width="49%" hieght="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHome&theme=default&show_icons=true&hide_border=true&layout=compact" alt="AmirHome" />
  
  <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=AmirHome&show_icons=true&locale=en" alt="AmirHome" />
 </div>
@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </a>
 <a href="https://laravel.com" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://github.com/laravel/art/blob/master/laravel-logo.png" alt="laravel" width="40" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
