@@ -2,7 +2,7 @@
 
 ### My GitHub Stats
 <div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=AmirHome)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmirHome" alt="GitHub Streak" /></a>
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=AmirHome&show_icons=true&locale=en" alt="AmirHome" />
 </div>
 
