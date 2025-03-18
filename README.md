@@ -3,8 +3,8 @@
 ### My GitHub Stats
 <div>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmirHome" alt="GitHub Streak" /></a>
-  <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=AmirHome&show_icons=true&locale=en" alt="AmirHome" />
-  <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default&hide_border=true" alt="DenverCoder1's GitHub Stats" />
+ <img align="center" width="49%" src="https://streak-stats.demolab.com/?user=AmirHome" alt="AmirHome" />
+ <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=AmirHome&show_icons=true&locale=en" alt="AmirHome" />
 </div>
 
 ### Languages and Tools:
