@@ -15,6 +15,9 @@
 <a href="https://laravel.com" target="_blank">
   <img src="https://github.com/laravel/art/blob/master/laravel-logo.png" alt="laravel" width="40" height="40"/>
 </a>
+<a href="https://dot.net" target="_blank">
+  <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" alt="dotnet core" width="40" height="40"/>
+</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
   
