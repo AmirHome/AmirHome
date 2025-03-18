@@ -72,7 +72,7 @@
 
 <p align="center">
 <div align="center" inline>
-<span align="left"> <a href="https://www.linkedin.com/in/amir-hosseinzadeh/" target="_blank">
+<span align="left"> <a href="https://www.linkedin.com/in/amir-hoss/" target="_blank">
   <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Amir Hosseinzadeh" height="25"/></a>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;
